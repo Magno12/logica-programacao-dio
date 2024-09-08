@@ -36,6 +36,7 @@ else if (xp >= 9001 && xp <= 10000) {
     nomeXp = "Imortal"
 }
 else if (xp >= 10001) {
+ 
     nomeXp = "Radiante";
 }
 
